@@ -40,7 +40,7 @@ dates.
 
 * Note that in this dataset missing values are coded as `?`.
 
-### The four plots that you will need to construct are shown below. 
+### The four plots are shown below. 
 
 ### Plot 1
 https://github.com/alephy/ExData_Plotting1-PNG/issues/1
